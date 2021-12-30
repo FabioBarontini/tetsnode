@@ -19,7 +19,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@master
       - name: pre build
-        run: run: echo "Hello, world!"
+        run: echo "Hello, world!"
       - name: Install 🔧
         run: npm install
 
